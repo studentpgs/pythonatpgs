@@ -1,0 +1,7 @@
+
+git clone https://github.com/studentpgs/pythonatpgs.git
+git branch 
+git checkout <username> 
+
+git add HelloWrold.py git commit -m "commiting hello world program"
+git push
